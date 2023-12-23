@@ -70,6 +70,10 @@ th{
 	background-color: #EEE;
 }
 
+#titulo-form {
+	margin-top: 20px;
+}
+
 label{
 	color: #555;
 	display: block;
@@ -145,4 +149,14 @@ button[disabled=disabled], button:disabled {
 .fadeOut {
 	opacity: 0;
 	transition: 0.5s;
+}
+
+#filtrar-tabela {
+	width: 185px;
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+.invisivel {
+	display: none;
 }
