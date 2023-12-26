@@ -1,0 +1,1 @@
+Programa feito seguindo o curso "Javascript: programando na linguagem da web" ofertado pela Alura. Nele é simulado um banco de dados de pacientes em que é possível adicionar/removar/buscar pacientes e calcular o imc, além de ter alguns requerimentos no preenchimento do formulário.
